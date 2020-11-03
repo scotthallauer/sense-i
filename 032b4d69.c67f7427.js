@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{61:function(e){e.exports=JSON.parse('{"allTagsPath":"/sense-i/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/sense-i/blog/tags/hello"}')}}]);
